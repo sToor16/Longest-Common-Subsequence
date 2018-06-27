@@ -1,0 +1,3 @@
+/Users/toor/Desktop/Toor/lcs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/toor/Desktop/Toor/lcs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toor/Desktop/Toor/lcs/cmake-build-debug/CMakeFiles/lcs.dir
